@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: geolocation-form-autofill\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de_DE\n"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "View Details"
+msgstr "Details anzeigen"
+
+msgid "Dynamics Customer Insights - Journeys Forms Geolocation Form Autofill Plugin"
+msgstr "Dynamics Customer Insights - Journeys Formular-Geolocation-Autofill-Plugin"
+
+msgid "A plugin to prefill Dynamics Customer Insights - Journeys forms using geolocation."
+msgstr "Ein Plugin, um Dynamics Customer Insights - Journeys Formulare mit Geolokalisierungsdaten vorab auszufüllen."
+
+msgid "Enable Plugin"
+msgstr "Plugin aktivieren"
+
+msgid "Activate the plugin to start autofilling forms."
+msgstr "Aktivieren Sie das Plugin, um Formulare automatisch auszufüllen."
+
+msgid "Script Location"
+msgstr "Skript-Standort"
+
+msgid "In Header"
+msgstr "Im Header"
+
+msgid "Via Shortcode"
+msgstr "Per Shortcode"
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Instructions"
+msgstr "Anleitung"
+
+msgid "This plugin automatically fills city and postal code fields in Dynamics Customer Insights - Journeys forms based on user geolocation."
+msgstr "Dieses Plugin füllt automatisch Stadt- und Postleitzahlfelder in Dynamics Customer Insights - Journeys Formularen basierend auf der Geolocation des Benutzers aus."
+
+msgid "If you want to use the script on specific pages, select "Via Shortcode" above and use this shortcode on the desired page:"
+msgstr "Wenn Sie das Skript auf bestimmten Seiten verwenden möchten, wählen Sie oben "Per Shortcode" und verwenden Sie dann den folgenden Shortcode auf der gewünschten Seite:"

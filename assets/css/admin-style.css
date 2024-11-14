@@ -1,0 +1,13 @@
+/* Stylesheet */
+.wrap h1 {
+    font-size: 2em;
+    color: #0073aa;
+}
+
+.form-table th {
+    font-weight: bold;
+}
+
+.form-table td {
+    padding: 10px;
+}
